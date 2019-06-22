@@ -16,10 +16,11 @@
 
 **Link to work:** https://github.com/Adalab/f-online-pokemon-veroena/blob/trying-new-fetch/src/App.js
 
-### Day 3: June 21, 2019
+### Day 4: June 22, 2019
 
-**Today's Progress**: more practice with React Router to navigate from one item to the next or previous ones. Also, trying new HTML labels like <progress> and <meter> to present stats.
+**Today's Progress**: properly learning how to use SVG to dive head first into D3 tomorrow.
 
-**Thoughts:** I found the solution to the problem I was having with routing previous and post items, but I think the code for it it's too long and sort of childish. Hopefully I can find a better solution in the future or not being so hard on myself if I made something work just with my own ideas.
+**Thoughts:** It's pretty interesting and logical, I think I'm going to use this a lot or at least it'll help me understand how others have used it when I'm reading someone else's code. A bit worried about diving into d3.js tomorrow, I don't know if I'm going too fast and I'm still too much of a newbie to go there but I'm going to give it a go.
 
-**Link to work:** https://github.com/Adalab/f-online-pokemon-veroena/blob/improvements/src/components/PokeDetail.js
+**Link to work:** (all done through jsbin.com aided by YT tutorials)
+
