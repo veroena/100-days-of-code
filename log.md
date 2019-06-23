@@ -32,3 +32,11 @@
 
 **Link to work:** (all done through jsbin.com aided by YT tutorials)
 
+### Day 5: June 23, 2019
+
+**Today's Progress**: first day of learning D3, mainly how the library works. Scale, chaining methods, render... It's insanely cool.
+
+**Thoughts:** It feels a little overwhelming and I'm still doubtful that I'm at the right level in my front end journey to be able to follow this... But so far so good in following the lesson. Curran Kelleher is an amazing speaker and it's helping a lot. It was useful to have a brief refresh of JS concepts and I think I'm understanding how things work... Next step: USING IT!
+
+**Link to work:** (all done through jsbin.com aided by YT tutorial)
+
