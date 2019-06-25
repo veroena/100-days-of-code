@@ -40,3 +40,19 @@
 
 **Link to work:** (all done through jsbin.com aided by YT tutorial)
 
+### Day 6: June 24, 2019
+
+**Today's Progress**: woke up with a bad fever and I didn't dare going into D3, but I fixed up some quirks in a previous project that has been in my to-do list
+
+**Thoughts:** I love React and I want to use it everyday of my life <3
+
+**Link to work:** https://github.com/Adalab/f-m3-evaluacion-final-veroena
+
+### Day 7: June 25, 2019
+
+**Today's Progress**: still very much sick... In fact more sick than yesterday. Can't go into d3 like this but I did a tech test and reviewed some JavaScript
+
+**Thoughts:** Feeling quite insecure about my skills as a programmer since I don't know anything about MATH. JavaScripts algorithms are hard and it takes me hours to understand or create one... Is this something you can learn or is it innate?
+
+**Link to work:** (review in my files and the Adalab Gitbook)
+
