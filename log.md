@@ -207,3 +207,27 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 28: July 16, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 29: July 17, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 30: July 18, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
