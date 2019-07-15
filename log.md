@@ -151,3 +151,59 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 21: July 9, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 22: July 10, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 23: July 11, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 24: July 12, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 25: July 13, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 26: July 14, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 27: July 15, 2019
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
